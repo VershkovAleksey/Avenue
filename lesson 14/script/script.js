@@ -29,3 +29,4 @@ console.log(typeof(number));
 var value4 = value3--;
 console.log(value4);
 alert("123");
+var newvar = "";
