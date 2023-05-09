@@ -1,0 +1,123 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.header-home-nav__info {
+    background-color: #232536;
+    width: 100%;
+    margin: 0;
+}
+
+.header-home-nav__info__logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-home-nav__info__navbar-nav {
+    display: flex;
+    margin: 0;
+}
+
+.navbar_wrapper {
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-link {
+    color: #fff;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.nav-link:hover {
+    color: #EDC14A;
+    transition-duration: 0.5s;
+}
+
+.info__navbar__button {
+    border-radius: 0%;
+    padding: 16px 48px;
+    color: #232536;
+    border: none;
+    margin-right: 80px;
+}
+
+.info__navbar__button:hover {
+    background-color: #EDC14A;
+    transition-duration: 0.5s;
+    box-shadow: none;
+}
+
+.home-hero__info {
+    background-image: url(../../image/image__home/image__home__header/home_hero_BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+    overflow: hidden;
+}
+
+.cap1__big {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family:sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fff;
+}
+
+.body-01__yellow {
+    color: #EDC14A;
+    text-decoration: none;
+}
+
+.home-hero__info__button {
+    border-radius: 0%;
+    padding: 16px 48px;
+    color: #232536;
+    background-color: #FFD050;
+    border: none;
+    margin-left: 10vh;
+}
+
+.home-hero__info__button:hover {
+    background-color: #EDC14A;
+    transition-duration: 0.5s;
+    box-shadow: none;
+}
+
+.home-hero__info__cell1 {
+    padding-top: 17vh;
+    padding-left: 10vh;
+    padding-bottom: 3vh;
+    color: #fff;
+}
+
+.home-hero__info__cell2 {
+    padding-left: 10vh;
+    padding-bottom: 3vh;
+    color: #fff;
+}
+
+.home-hero__info__cell3 {
+    padding-left: 10vh;
+    padding-bottom: 2vh;
+    color: #fff;
+}
+
+.home-hero__info__cell4 {
+    padding-left: 10vh;
+    padding-bottom: 5vh;
+    color: #fff;
+}

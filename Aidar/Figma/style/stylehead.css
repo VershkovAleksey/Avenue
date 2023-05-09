@@ -1,0 +1,102 @@
+.navbar-brand {
+    position: absolute;
+    left: 83px;
+    top: 12px;
+    box-sizing: inherit;
+
+}
+
+.bg-body-tertiary {
+    background-color: #39285a !important;
+    height: 80px;
+
+
+
+}
+
+.nav-link {
+    color: white;
+    display: flex;
+
+
+
+}
+
+.navbar-nav {
+    position: absolute;
+    width: 548px;
+    height: 29px;
+    left: 844px;
+    top: 13px;
+    flex-grow: 20;
+    justify-content: space-between;
+    align-items: center;
+    align-items: baseline;
+    justify-content: space-around;
+    left: 1300px;
+
+
+}
+
+.btn {
+    border-radius: 0%;
+    height: 56px;
+    width: 179px;
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+.intro-headings {
+    position: absolute;
+    left: 81px;
+    top: 128px;
+    font-family: sans-serif;
+    color: white;
+}
+
+h1 {
+    font-size: 16px;
+}
+
+h2 {
+    font-size: 56px;
+}
+
+h3 {
+    font-size: 16px;
+
+}
+
+.colortext {
+    color: #FFD050;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+.btn2 {
+    background: #FFD050;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 48px;
+    gap: 12px;
+
+    position: absolute;
+    width: 204px;
+    height: 56px;
+    top: 352px;
+
+}
+
+header {
+    background-image: url(../img/man-in-black.svg);
+    height: 720px;
+    width: 100%;
+    border-image: auto;
+    background-size: 100%;
+
+
+
+}

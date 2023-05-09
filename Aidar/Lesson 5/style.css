@@ -1,0 +1,21 @@
+@import url(/footer.css);
+//@import url(/header.css);
+
+.square1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: red;
+}
+.square2{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: blue;
+}
+.square3{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: green;
+}

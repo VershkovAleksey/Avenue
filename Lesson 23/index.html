@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Main</h1>
+    <script>
+        const xhr = new XMLHttpRequest();
+        // GET-запрос к ресурсу /hello
+        xhr.open("GET", "/hello");
+        // обработчик получения ответа сервера
+        xhr.onload = () => {
+            if (xhr.status == 200) {                // если код ответа 200
+                console.log(xhr.responseText);      // выводим полученный ответ на консоль браузера
+            } else {                                // иначе выводим текст статуса
+                console.log("Server response: ", xhr.statusText);
+            }
+        };
+        xhr.send();     // выполняем запрос
+    </script>
+    <script>
+        // данные для отправки
+        const user = "Tom";
+        const req = new XMLHttpRequest();
+        // POST-запрос к ресурсу /user
+        req.open("POST", "/user");
+        // обработчик получения ответа сервера
+        req.onload = () => {
+            if (xhr.status == 200) { 
+                console.log(req.responseText);
+            } else {
+                console.log("Server response: ", req.statusText);
+            }
+        };
+        req.send(user);     // отправляем значение user в методе send
+        </script>
+</body>
+
+</html>

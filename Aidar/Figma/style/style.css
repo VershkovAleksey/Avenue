@@ -1,0 +1,15 @@
+@import url(../style/stylehead.css);
+@import url(../style/stylefoter.css);
+@import url(//style/header.css);
+@import url(../style/container.css);
+@import url(../style/container2.css);
+
+
+
+body{
+     width:100%;
+    height: 100%;
+    box-sizing: inherit;
+}
+    
+

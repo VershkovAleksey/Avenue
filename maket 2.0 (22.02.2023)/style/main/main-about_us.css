@@ -1,0 +1,83 @@
+.main_overview {
+    background-image: url(../../image/image_about-us/photo-of-woman-wearing-eyeglasses-3184405.png);
+    background-repeat: no-repeat;
+    height: 58vh;
+    margin-top: -7vh;
+}
+
+.about-us-Our-mision__cell1{
+    padding-top: 20vh;
+    padding-left: 3vw;
+}
+
+.about-us-Our-mision__cell2 {
+    padding-top: 2vh;
+    padding-left: 3vw;
+}
+
+.about-us-Our-mision__cell3 {
+    padding-top: 2vh;
+    padding-left: 3vw;
+}
+
+.our-team__cell1 {
+    padding-top: 10vh;
+}
+
+.our-team__cell2 {
+    padding-top: 3vh;
+}
+
+.our-team__cell3 {
+    padding-top: 3vh;
+}
+
+.our-team__cell4 {
+    padding-left: 5.2vw;
+}
+
+.our-team {
+    margin-top: 20vh;
+}
+
+.why-we-started {
+    margin-top: 20vh;
+}
+
+.why-we-started__cell1 {
+    padding-top: 10vh;
+}
+
+.why-we-started__cell2 {
+    padding-top: 3vh;
+}
+
+.why-we-started__cell3 {
+    padding-top: 3vh;
+}
+
+.list-of-authors2 {
+    margin-top: 5vh;
+}
+
+.line__yellow {
+    height: 3vh;
+    background-color: #FFD050;
+}
+
+.line__purple {
+    height: 3vh;
+    background-color: #592EA9;
+}
+
+.line {
+    margin-top: -5vh;
+}
+
+.total-blogs {
+    background-color: #FFD050;
+    height: 20vh;
+    margin-top: -25vh;
+    padding-top: 4vh;
+    padding-left: 2vh;
+}

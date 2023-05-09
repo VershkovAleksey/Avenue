@@ -1,0 +1,100 @@
+.contact-us{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20vh;
+}
+
+.contact-block {
+    background-color: #592EA9;
+    height: 25vh;
+    margin-top: 5vh;
+}
+
+.contact-block-info1 {
+    border-top: 2px solid #999;
+    width: 20vw;
+}
+
+.contact-block-info1_p1 {
+    color: #fff;
+    margin-bottom: 0;
+    margin-left: 1vw;
+    margin-top: 3vh;
+}
+
+.contact-block-info1_p2 {
+    color: #fff;
+    margin-bottom: 0;
+    margin-left: 1vw;
+    margin-top: 1vh;
+}
+
+.contact-block-info1_p3 {
+    margin-left: 1vw;
+    color: #999;
+}
+
+.contact-block-info2 {
+    border-top: 2px solid #999;
+    width: 20vw;
+}
+
+.contact-block-info2_p1 {
+    color: #fff;
+    margin-top: 3vh;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+.contact-block-info2_p1:hover {
+    color: #FFD050;
+    transition-duration: 0.3s;
+}
+
+.contact-block-info2_p2 {
+    color: #999;
+}
+
+.contact-block_head {
+    margin-top: 2vh;
+    margin-left: 2vw;
+    color: #999;
+}
+
+.href_contact {
+    color: #999;
+    text-decoration: none;
+}
+
+.href_contact:hover {
+    color: #FFD050;
+}
+
+.contact-us__name {
+    width: 100%;
+    height: 7vh;   
+}
+
+.massage_info {
+    width: 100%;
+    height: 15vh;
+}
+
+.contact-us__name_input {
+    width: 100%;
+    height: 7vh;
+    background-color: #FFD050;
+    text-decoration: none;
+    border: none;
+}
+
+.contact-us__name_input:hover {
+    background-color: #EDC14A;
+    transition-duration: 0.3s;
+}
+
+.massage_block {
+    margin-top: 5vh;
+}

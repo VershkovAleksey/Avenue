@@ -1,0 +1,322 @@
+.img_main{
+    width: 100%;
+    margin:0%
+}
+
+/* .container{
+    border-collapse: collapse;
+} */
+
+/* кнопка */
+.home_hero_button2{
+    padding:16px 48px;
+    background-color: #FFD050;
+    border: none;
+    margin-top: 4vh;
+    margin-left: -0.5vh;
+    font-family: 'San-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+/* отступы левого уровня */
+.level2{
+    padding: 3vh 3vh 0vh 3vh;
+}
+.level2{
+    border: 1px solid #dfdfdf;
+}
+
+
+.post1{
+    padding-top: 10vh;
+}
+.post2{
+    padding-top:1vh;
+}
+
+
+
+.post2:hover{
+    background-color:#FBF6EA;
+    transition-duration: 1s ;
+}
+
+/* отсупы правого уровня */
+.post1{
+  padding-left: 4vh;
+}
+.post2{
+    padding-left: 4vh;
+}
+.post3{
+    padding-left: 4vh;
+  }
+.post4{
+      padding-left: 4vh;
+  }
+
+  .line_line{
+    height:3vh;
+    margin: 20vh 0 0 0;
+  }
+.line_line_yellow{
+    background-color: #FFD050;
+}
+.line_line_violet{
+    background-color: #592EA9;
+    ;
+}
+
+/* str3 */
+    /* отсутпы */
+.text{
+    background-color:#F4F0F8;
+    
+}
+.text_p10{
+    padding: 4vh 4ch 4ch 4ch;
+}
+.text_p20{
+    padding: 4vh 4ch 4ch 4ch;
+}
+.text_p4{
+font-size: 18px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left;
+    color: #592EA9;
+}
+
+/* str3 */
+h2{
+    text-align: center;
+}
+.b2{
+    color: #6D6E76;
+}
+
+.tabl2:hover{
+    background-color: #FFD050;
+    transition-duration: 1s ;
+}
+.tabl2{
+    padding: 3vh;
+    border: 1px solid #dfdfdf;
+    height: 28vh;
+    margin-right: 10px;
+
+}
+.tabl2-end{
+    padding: 3vh;
+    border: 1px solid #dfdfdf;
+    height: 28vh;
+}
+.tabl2-end:hover{
+    background-color: #FFD050;
+    transition-duration: 1s ;
+
+}
+.tabliw{
+    height: 85vh;
+    background-color: white;
+    margin-top: 24vh;
+    padding: 12vh;
+}
+.str3{
+    background-image: url(/Finsweet/image/close-up-photography-of-man-wearing-sunglasses-1212984.png);
+    background-repeat: no-repeat;
+    height: 120vh;
+}
+.home_hero_button22{
+    padding:16px 48px;
+    background-color: #FFD050;
+    border: none;
+    font-family: 'San-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+.contact000{
+    background: #F4F4F4;
+    height: 60vh;
+    width: 20vw;
+    padding: 5vh;
+}
+.contact000:hover{
+    background: #FBF6EA;
+}
+.img-man-women{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contactF1{
+    display: flex;
+    justify-content: center;
+}
+.contactC{
+    display: flex;
+    justify-content: center;
+    color: #6D6E76;
+}
+.logo_cot{
+    display:flex;
+    justify-content: center;
+}
+.logo_cot2{
+    display:flex;
+    justify-content: center;
+}
+.logo-coc1{
+    padding: 1vh;
+    color:  #6D6E76;
+
+}
+.logo-coc{
+    padding: 1vh;
+    color: black;
+}
+.contact000{
+    height: 60vh;
+}
+/* .icon_ser{
+    height: 7vh;
+
+} */
+.icon_ser{
+    height: 7vh;
+    margin-top: 20vh;
+}
+.icon_ser_pod{
+    padding-top: 2vh;
+}
+.tabllabl{
+    height: 60vh;
+    background-color: #FBF6EA;
+    margin-top: 20vh;
+    padding: 5vh;
+    padding-top: 7vh;
+}
+.tabllabl_blok1{
+    height: 45vh;
+    border-right: 1px solid #6D6E76;
+}
+.con_prof{
+    margin-top: 5vh;
+    display: flex
+    
+}
+.con_prof_info{
+    margin-left: 2vh;
+}
+.con_prof2{
+    display: flex;
+    align-items: flex-start;
+    color:#6D6E76;
+}
+.chov{
+    text-decoration: none;
+}
+.cnopk1{
+    border-radius: 50%;
+    background-color: #FFF;
+    width: 40px;
+    height: 40px;
+    border: none;
+    margin-left: 2vh;
+}
+.cnopk1:hover{
+    background-color: #232536;
+    transition: 1s;
+    color: white;
+    transform: scale(1.4);
+}
+.cnopk0{
+    margin-left: 8vh;
+}
+.pol{
+    text-align: center;
+    margin-top: 10vh;
+    padding: 9vh;
+}
+.pol44{
+    padding:16px 48px;
+    background-color: #FFD050;
+    border: none;
+    font-family: 'San-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+.pol2{
+    color: #6D6E76;
+
+}
+.podval{
+    height: 75vh;
+    width: 100%;
+    background-color: #232536;
+}
+.podpodval{
+    background-color: #34374e;
+    height: 35vh;
+    width: 180vh;
+    margin: 9vh auto;
+    justify-content: center;
+}
+.podval1{
+    color: white;
+    padding: 5vh;
+}
+.podval2{
+    width: 40vh;
+    height: 8vh;
+    border: 1px solid #FBF6EA;
+    margin-top: 13vh;
+    background:#34374e ;
+}
+.pol45{
+    padding:16px 48px;
+    background-color: #FFD050;
+    border: none;
+    font-family: 'San-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 13vh;
+
+}
+.pol45:hover{
+    background-color: #EDC14A;
+    transition: 1s;
+}
+.conech1{
+    padding-bottom: 3vh;
+    margin-left: 10vh;
+}
+.coh1{
+    text-decoration: none;
+}
+.home_hero_button_jn{
+    padding:16px 48px;
+    background-color: #FFD050;
+    border: none;
+    font-family: 'San-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+.all_post_four_cnopki_text_parag{
+    text-align: center;
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+
+}

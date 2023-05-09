@@ -1,0 +1,49 @@
+.all-posts {
+    border-bottom: 3px solid #999;
+    width: 100%;
+    margin-top: 10vh;
+}
+
+.blogs-cards__image {
+    margin-top: 7vh;
+}
+
+.violet {
+    text-decoration: none;
+    color:  #592EA9;
+}
+
+.violet:hover {
+    transition-duration: 0.3s;
+    color: #FFD050;
+}
+
+.blogs-cards__p1 {
+    margin-top: 15vh;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.button--blogs-cards {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button__cards {
+    text-decoration: none;
+    color: #999;
+}
+
+.button__cards:hover {
+    transition-duration: 0.3s;
+    color: #FFD050;
+}
+
+.choose-a-category__zagolovok__blog {
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 5vh;
+}

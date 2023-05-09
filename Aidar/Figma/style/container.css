@@ -1,0 +1,88 @@
+.container {
+    background: white;
+    max-width: 100%;
+    margin-bottom: 70px;
+    margin: 5%;
+    display: flex;
+    
+
+}
+
+.row {
+    width: 60%;
+
+}
+
+.col1 {
+    justify-content: left;
+}
+
+
+.colortext2 {
+    color: purple;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.btn3 {
+    position: static;
+    background: #FFD050;
+    border: #FFD050;
+    padding: 16px 48px;
+    width: 204px;
+    font-size: 17px;
+    bottom: 10px;
+    margin-bottom: 40px;
+
+}
+
+h5 {
+    font-size: 50px;
+}
+
+.palm {
+    background-image: url(../img/palma.svg);
+    width: 910px;
+    height: 480px;
+    border-image: auto;
+    background-size: cover;
+
+}
+
+.row2 {
+    width: 30%;
+
+}
+
+.col2c {
+    display: flex;
+
+}
+
+h6 {
+    font-size: 50px;
+    width: 80%;
+}
+
+.colortext1 {
+    color: blueviolet;
+    font-size: 20px;
+        width: 20%;
+        margin-top: 25px;
+        margin-left: 110px;
+
+}
+
+h4 {
+    font-size: 20px;
+}

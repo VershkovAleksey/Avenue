@@ -1,0 +1,50 @@
+.container2 {
+    background: white;
+    max-width: 100%;
+    margin: 5%;
+}
+
+.row3 {
+    display: flex;
+}
+
+.col1-1 {
+    width: 20%;
+    height: 23px;
+    background-color: white;
+}
+
+.col1-2 {
+    width: 60%;
+    height: 23px;
+    background-color: #FFD050;
+}
+
+.col1-3 {
+    width: 20%;
+    height: 23px;
+    background-color: #592EA9;
+}
+
+.row4 {
+    height: 500px;
+    background-color: #F4F0F8;
+    display: flex;
+}
+
+.col2-1 {
+    border: 1px solid black;
+    width: 50%;
+
+}
+
+.col2-2 {
+    border: 1px solid black;
+    width: 50%;
+}
+
+.h7{
+    font-size: 50px;
+    font-family: sans-serif;
+
+}

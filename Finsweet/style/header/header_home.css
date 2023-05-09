@@ -1,0 +1,75 @@
+.header_home_nav_ifo{
+    background-color:#232536;
+    width: 100%;
+    margin:0%
+}
+.nav-link{
+    color:white;
+
+}
+.nav-link:hover{
+color: #FFD050;
+;
+}
+.nav-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info_navbar_button{
+    border-radius: 0%;
+    padding: 16px 48px;
+    margin-right: 80px;
+}
+.info_navbar_button:hover{
+    background-color:#FFD050;
+    ;
+}
+
+.navbar_wrapper{
+    justify-content: center;
+    align-items: center;
+}
+.home-hero{
+    background-image: url(../../image/home/man-in-black-suit-wearing-eye-glasses-sitting-on-gray-sofa-using-macbook-3772622.png);
+    height: 720px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home_hero_p1{
+    color: #fff;
+    padding-top: 17vh;
+    padding-left: 14.5vh;
+    padding-bottom: 2vh;
+}
+.home_hero_p2{
+    color:white;
+    padding-top: 2vh;
+    padding-left: 14.5vh;
+}
+.home_hero_p3{
+    color:white;
+    padding-top: 2vh;
+    padding-left: 14.5vh;
+}
+.home_hero_p4{
+    color:white;
+    padding-top: 2vh;
+    padding-left: 14.5vh;
+}
+.home_hero_button{
+    padding:16px 48px;
+    background-color: #FFD050;
+    border: none;
+    margin-top: 4vh;
+    margin-left: 14.5vh;
+    font-family: 'San-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+.text_yellow{
+    color:#FFD050;
+    text-decoration: none;
+}

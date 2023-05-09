@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'Sen-Regular';
+    src: url(../fonts/Sen/Sen-Regular.ttf);
+}
+.cap1__big {
+    text-transform: uppercase;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fff;
+}
+
+.body-01 {
+    color: #6D6E76;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.body-02 {
+    color: #6D6E76;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.label {
+    color: #232536;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.display-font {
+    color: #232536;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+}
+
+.cap1 {
+    text-transform: uppercase;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #232536;
+}
+.cap2 {
+    text-transform: uppercase;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #232536;
+}
+
+.heading-h1 {
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    color: #232536;
+}
+
+.heading-h2 {
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+}
+
+.heading-h3 {
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.heading-h4 {
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: #232536;
+}
+
+/* .cap2{
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 3px;
+text-align: left;
+} */
+
+/* font-family: Sen;
+font-size: 18px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left; */
+

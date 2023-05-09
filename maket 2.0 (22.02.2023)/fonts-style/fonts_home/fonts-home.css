@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Sen-Regular';
+    src: url(../fonts/Sen-Regular.ttf);
+}
+
+.buttonStyle {
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #232536;
+}
+
+.cap1__big {
+    text-transform: uppercase;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 20px;
+    color: #232536;
+}
+
+.body-01 {
+    color: #6D6E76;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.body-02 {
+    color: #6D6E76;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.label {
+    color: #232536;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.display-font {
+    color: #232536;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+}
+
+.cap1 {
+    text-transform: uppercase;
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #232536;
+}
+
+.heading-h1 {
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    color: #232536;
+}
+
+.heading-h2 {
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+}
+
+.heading-h3 {
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.heading-h4 {
+    font-family: 'Sen-Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: #232536;
+}
